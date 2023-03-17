@@ -1,0 +1,241 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 2rem;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.5rem;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+
+
+body {
+    display: block;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 5=300px;
+    left: 650px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.top-container {
+    background-color: #5FA71F;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+ header {
+    display: block;
+ }
+.middle-container {
+    margin: 100px;
+}
+.middle-container {
+    font-size: 2rem;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 0;
+    padding: 50px to 20px;
+    font-family: 'Sacramento', cursive;
+    
+    font-size:4rem;
+    footer {
+        display: block ;
+    }
+}
+section {
+    display: block;
+}
+.top-cloud {
+    position: absolute;
+    right: 970px;
+    top: 20px;
+}
+.mountain{
+    height: 428px;
+    width: 844px;
+}
+.skill-2{
+    height: 270px;
+    width: 270px;
+}
+.web-designing{
+    float: left;
+    position: absolute;
+    margin: 0;
+    padding-left: 670px;
+    font-size: 2.5rem;
+    
+    font-family: 'Merriweather', serif;
+}
+.skill-1{
+    float: left;
+    position: absolute;
+    margin: 0;
+    margin-left: 371px;
+   
+}
+  .skill-1{
+    height: 300px;
+    width: 300px;
+    margin-top: -90px;
+  }  
+    
+
+.calculator{
+    float: left;
+    position: absolute;
+    margin: 0;
+    margin-left: 710px;
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+   
+    font-family: 'Merriweather', serif;
+}
+.skill-2{
+    float: left;
+    position: relative;
+    left: 1550px;
+    margin-top: -95px;
+    
+}
+    
+
+.skill-3{
+    float: left;
+    position: absolute;
+    margin: 0;
+    left: 620px;
+   margin-top: -106px;
+   height: 360px;
+   
+   
+}
+.skill-3{
+    height: 360px;
+    width: 340px;
+}
+.climbing{
+    float: left;
+    position: absolute;
+    margin: 0;
+    right: 854px;
+    font-size: 2.5rem;
+    font-family: 'Merriweather', serif;
+}
+.contact{
+    margin-top: 600px;
+}
+.skill-row1{
+    margin-top: 200px;
+    
+}
+.skill-row2{
+    margin-top: 500px;
+}
+.skills{
+    margin-top: 200px;
+}
+.skill-row3{
+    margin-top: 500px;
+}
+.rock{
+    margin-top: 300px ;
+}
+h3{
+    font-size: 3rem;
+    margin-right: 200px;
+    color: #11199E;
+    font-family: 'Montserrat', sans-serif;
+}
+h4{
+    font-size: 3rem;
+    margin-right: 780px;
+    color: #11199E;
+    font-family: 'Montserrat', sans-serif;
+}
+h5{
+    font-size: 3rem;
+    margin-right: 3px;
+    color: #11199E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 1.25rem;
+    line-height: 2;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.intro{
+    font-size: 3rem;
+    display: block;
+}
+.profile-pic{
+    height: 400px;
+    width: 460px;
+}
+.contact-message{
+    font-size: 2.5rem;
+}
+.h6{
+    font-size: 5rem;
+}
+.copyrights{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.footer-link{
+    text-decoration: none;
+
+}
+.footer-link:hover{
+color: #f0f7fa;
+}
+.buttonClass {
+    font-size:28px;
+    font-family:Arial;
+    width:166px;
+    height:73px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:#057fd0;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+    text-shadow: 0px -1px 0px #5b6178;
+    background:linear-gradient(#33bdef, #019ad2);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#019ad2, #33bdef);
+  }
